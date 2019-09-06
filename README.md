@@ -12,14 +12,15 @@ It requires the Python 3.6 and Pytorch 0.4 versions and numpy, scipy, and matplo
 Once everything is set up you can simply run:
 
 > python train.py
+
 > python test_noise.py
 # Authors & Citation
-Tong Zhang,
-Suryakanta Biswal,
-Ying Wang
+-Tong Zhang,
+-Suryakanta Biswal,
+-Ying Wang
 
 **If you find this code helpful in your research please cite the following paper:**
-@unknown{unknown,
+> @unknown{unknown,
 author = {Zhang, Tong and Biswal, Suryakanta and Wang, Ying},
 year = {2019},
 month = {07},
