@@ -23,7 +23,18 @@ Suryakanta Biswal
 
 Ying Wang
 
-**If you find this code helpful in your research please cite the following paper:**
+**If you find this code helpful in your research please cite the following papers:**
+> @inbook{doi:10.1680/icsic.64669.421,
+author = {ZhangT. and WangY.},
+title = {Deep Learning Algorithms for Structural Condition Identification with Limited Monitoring Data},
+booktitle = {International Conference on Smart Infrastructure and Construction 2019 (ICSIC)},
+chapter = {},
+pages = {421-426},
+doi = {10.1680/icsic.64669.421},
+URL = {https://www.icevirtuallibrary.com/doi/abs/10.1680/icsic.64669.421},
+eprint = {https://www.icevirtuallibrary.com/doi/pdf/10.1680/icsic.64669.421}
+}
+
 > @unknown{unknown,
 author = {Zhang, Tong and Biswal, Suryakanta and Wang, Ying},
 year = {2019},
