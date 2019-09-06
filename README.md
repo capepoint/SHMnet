@@ -16,6 +16,8 @@ Once everything is set up you can simply run:
 > python train.py
 
 > python test_noise.py
+# Trained model 
+The trained model is too big to be included. If you are interested to get a copy of our trained models, please email to tong.zhang12@gmail.com .
 # Authors & Citation
 Tong Zhang
 
