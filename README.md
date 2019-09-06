@@ -11,7 +11,7 @@ It requires the Python 3.6 and Pytorch 0.4 versions and numpy, scipy, and matplo
 
 Once everything is set up you can simply run:
 
-python train.py//
+python train.py
 python test_noise.py
 # Authors & Citation
 Tong Zhang,
