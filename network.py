@@ -58,7 +58,7 @@ class SHMnet(nn.Module):
         x = x.view(x.size(0), 256*621)
         x = self.classifier(x)
         return x
-class AlexNet(nn.Module):
+class AlexNet1D(nn.Module):
     def __init__(self, inputsize=5000, num_classes=10):
         super(AlexNet, self).__init__()
         self.inputsize = inputsize
