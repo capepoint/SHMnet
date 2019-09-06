@@ -1,5 +1,6 @@
 # SHMnet
 Python Code for SHMnet, a CNN algorithm for struactual health mornitoring
+
 SHMnet: Condition Assessment of Bolted Connection with Beyond Human-level Performance
 
 **Abstract:**
@@ -16,8 +17,10 @@ Once everything is set up you can simply run:
 
 > python test_noise.py
 # Authors & Citation
-Tong Zhang,
-Suryakanta Biswal,
+Tong Zhang
+
+Suryakanta Biswal
+
 Ying Wang
 
 **If you find this code helpful in your research please cite the following paper:**
