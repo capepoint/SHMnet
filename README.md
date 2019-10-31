@@ -35,13 +35,15 @@ pages = {421-426},
 doi = {10.1680/icsic.64669.421},
 }
 
-> @preprint{SHMnet,
-author = {Zhang, Tong and Biswal, Suryakanta and Wang, Ying},
-year = {2019},
-month = {07},
-pages = {},
-title = {SHMnet: Condition Assessment of Bolted Connection with Beyond Human-level Performance},
-doi = {10.13140/RG.2.2.17510.57929}
+> @article{doi:10.1177/1475921719881237,
+author = {Tong Zhang and Suryakanta Biswal and Ying Wang},
+title ={SHMnet: Condition assessment of bolted connection with beyond human-level performance},
+journal = {Structural Health Monitoring},
+volume = {0},
+number = {0},
+pages = {1475921719881237},
+year = {0},
+doi = {10.1177/1475921719881237}
 }
 
 
